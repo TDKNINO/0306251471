@@ -1,7 +1,7 @@
 # LAB 06 - Thanh vien static, const, friend & Deep Copy
 
 ## Mon hoc
-Phuong phap lap trinh huong doi tuong - 3611110
+Phuong phap lap trinh huong doi tuong 
 
 ## Noi dung
 Source code nay tong hop cac kien thuc:
